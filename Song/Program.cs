@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             string beersong = Lyrics.Words();
+            Console.WriteLine(beersong);
         }
     }
 }
